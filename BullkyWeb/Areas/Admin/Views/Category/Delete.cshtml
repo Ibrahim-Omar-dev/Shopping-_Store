@@ -1,0 +1,45 @@
+﻿@using DataModel.Models
+@model Category
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2">DELETE Category</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+ <form asp-action="Delete" class="row">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <!-- Name Field -->
+    <div class="form-flating py-2 col-12">
+        <input asp-for="Name" class="form-control border-0 shadow " disabled/>
+        <label asp-for="Name" class="ms-2"></label>
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <!-- DisplayOrder Field -->
+    <div class="form-flating py-2 col-12">
+        <input asp-for="DisplayOrder" class="form-control border-0 shadow " disabled/>
+        <label asp-for= "DisplayOrder" class="ms-2"></label>
+        <span asp-validation-for="DisplayOrder" class="text-danger"></span>
+    </div>
+
+    <!-- Buttons -->
+    <div class="row pt-2 mt-20">
+        <div class="col-6 col-md-3 ">
+            <button type="submit" class="btn btn-primary form-control">Delete</button>
+        </div>
+        <div class="col-6 col-md-3">
+            <a asp-action="Index" class="btn btn-secondary form-control border">Back To List</a>
+        </div>
+    </div>
+</form>
+    </div>
+</div>

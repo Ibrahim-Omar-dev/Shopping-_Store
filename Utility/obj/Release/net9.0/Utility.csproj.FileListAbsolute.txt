@@ -1,0 +1,14 @@
+E:\Bullky\Utility\bin\Release\net9.0\Utility.deps.json
+E:\Bullky\Utility\bin\Release\net9.0\Utility.runtimeconfig.json
+E:\Bullky\Utility\bin\Release\net9.0\Utility.dll
+E:\Bullky\Utility\bin\Release\net9.0\Utility.pdb
+E:\Bullky\Utility\obj\Release\net9.0\Utility.csproj.AssemblyReference.cache
+E:\Bullky\Utility\obj\Release\net9.0\Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bullky\Utility\obj\Release\net9.0\Utility.AssemblyInfoInputs.cache
+E:\Bullky\Utility\obj\Release\net9.0\Utility.AssemblyInfo.cs
+E:\Bullky\Utility\obj\Release\net9.0\Utility.csproj.CoreCompileInputs.cache
+E:\Bullky\Utility\obj\Release\net9.0\Utility.dll
+E:\Bullky\Utility\obj\Release\net9.0\refint\Utility.dll
+E:\Bullky\Utility\obj\Release\net9.0\Utility.pdb
+E:\Bullky\Utility\obj\Release\net9.0\Utility.genruntimeconfig.cache
+E:\Bullky\Utility\obj\Release\net9.0\ref\Utility.dll

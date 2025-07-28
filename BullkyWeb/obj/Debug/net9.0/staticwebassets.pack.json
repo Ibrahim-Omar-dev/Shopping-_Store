@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BullkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BullkyWeb.3jsqri7mx4.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\OrderStatus.png",
+      "PackagePath": "staticwebassets\\Images\\OrderStatus.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\3bd10b98-2ac5-43f9-85c3-2cc601a70c34.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\3bd10b98-2ac5-43f9-85c3-2cc601a70c34.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\4da6c71a-563c-4d7d-a9c3-83c58d9e2abc.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\4da6c71a-563c-4d7d-a9c3-83c58d9e2abc.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\6097f661-2129-4898-a501-4a568fed988a.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\6097f661-2129-4898-a501-4a568fed988a.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\9067ca00-06e0-481f-b161-01b373655140.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\9067ca00-06e0-481f-b161-01b373655140.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\9c4e70b5-44ba-44b4-b87d-91671d8a1e64.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\9c4e70b5-44ba-44b4-b87d-91671d8a1e64.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\9eb47722-0cc6-4f1e-9209-e332dfdfd4a3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\9eb47722-0cc6-4f1e-9209-e332dfdfd4a3.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\9ee84044-08ce-4400-a120-59bc80bcd6ab.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\9ee84044-08ce-4400-a120-59bc80bcd6ab.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\a9d2ce5a-16cb-4624-959d-221ea3100c12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\a9d2ce5a-16cb-4624-959d-221ea3100c12.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\c686519f-2d8d-454d-af3c-f32102af6e0d.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\c686519f-2d8d-454d-af3c-f32102af6e0d.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\e6bb185f-18b1-4a8b-8a1a-941276c984a0.png",
+      "PackagePath": "staticwebassets\\Images\\Product\\e6bb185f-18b1-4a8b-8a1a-941276c984a0.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\Product\\product-4\\5f890563-6c6e-4f9e-88cd-6c1442e93486.jpg",
+      "PackagePath": "staticwebassets\\Images\\Product\\product-4\\5f890563-6c6e-4f9e-88cd-6c1442e93486.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\book.png",
+      "PackagePath": "staticwebassets\\Images\\book.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\Images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-10\\1ac37986-d5ef-4e04-bb86-a01b0e4b6c47.png",
+      "PackagePath": "staticwebassets\\Images\\products\\product-10\\1ac37986-d5ef-4e04-bb86-a01b0e4b6c47.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-11\\36e48ac9-25fe-467f-99d7-654f3e188716.png",
+      "PackagePath": "staticwebassets\\Images\\products\\product-11\\36e48ac9-25fe-467f-99d7-654f3e188716.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-12\\c763ec4a-29ea-46f1-bf02-a4edb2c89af4.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-12\\c763ec4a-29ea-46f1-bf02-a4edb2c89af4.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-12\\c7d605fc-ae87-429c-803e-2610bca80811.png",
+      "PackagePath": "staticwebassets\\Images\\products\\product-12\\c7d605fc-ae87-429c-803e-2610bca80811.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-12\\d771e4e2-ca3d-4b55-8a04-1c0057dd20fd.png",
+      "PackagePath": "staticwebassets\\Images\\products\\product-12\\d771e4e2-ca3d-4b55-8a04-1c0057dd20fd.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-12\\ead51f1d-a9b0-44b7-99bd-6f6d02e48c27.png",
+      "PackagePath": "staticwebassets\\Images\\products\\product-12\\ead51f1d-a9b0-44b7-99bd-6f6d02e48c27.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-1\\1292d4d5-f5da-4a6f-88df-d89b19e63584.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-1\\1292d4d5-f5da-4a6f-88df-d89b19e63584.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-1\\8a67fb3e-373e-4320-9ae8-948cec694ae9.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-1\\8a67fb3e-373e-4320-9ae8-948cec694ae9.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-2\\111ecb98-c375-4262-add5-8de805ea87f0.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-2\\111ecb98-c375-4262-add5-8de805ea87f0.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-2\\5ef999f8-790c-491b-918d-7ee3529e618c.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-2\\5ef999f8-790c-491b-918d-7ee3529e618c.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-3\\e0fcbc9a-4c6d-4e05-8202-079581c1929e.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-3\\e0fcbc9a-4c6d-4e05-8202-079581c1929e.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-3\\e8132b70-4da4-4b5a-9601-ece1107ab887.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-3\\e8132b70-4da4-4b5a-9601-ece1107ab887.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-4\\55bea054-b799-42d7-a100-30c6842ea85c.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-4\\55bea054-b799-42d7-a100-30c6842ea85c.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-4\\b3575e59-bdee-4d2a-9baa-0d6c6dc72fa6.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-4\\b3575e59-bdee-4d2a-9baa-0d6c6dc72fa6.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-5\\6838957f-68ab-4cce-ae01-25e3fd1239f6.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-5\\6838957f-68ab-4cce-ae01-25e3fd1239f6.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-6\\7f49d9a2-f1d6-459d-b005-1badecbf9908.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-6\\7f49d9a2-f1d6-459d-b005-1badecbf9908.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-6\\81b6cf39-ee09-4da2-9a71-ea10b7fd20f8.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-6\\81b6cf39-ee09-4da2-9a71-ea10b7fd20f8.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-7\\5f740c97-d9f7-4b1d-ad23-37c76b744b39.jpg",
+      "PackagePath": "staticwebassets\\Images\\products\\product-7\\5f740c97-d9f7-4b1d-ad23-37c76b744b39.jpg"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-7\\dc93340b-52ce-4cae-8a04-5466ce7eeae8.png",
+      "PackagePath": "staticwebassets\\Images\\products\\product-7\\dc93340b-52ce-4cae-8a04-5466ce7eeae8.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-8\\c9a2fbe1-8652-47c2-94bf-d9c7914c576a.png",
+      "PackagePath": "staticwebassets\\Images\\products\\product-8\\c9a2fbe1-8652-47c2-94bf-d9c7914c576a.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\Images\\products\\product-9\\13a5b9ef-e1ed-4b7a-bc0b-3b5d073043d3.png",
+      "PackagePath": "staticwebassets\\Images\\products\\product-9\\13a5b9ef-e1ed-4b7a-bc0b-3b5d073043d3.png"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\js\\Companies.js",
+      "PackagePath": "staticwebassets\\js\\Companies.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\js\\OrderManager.js",
+      "PackagePath": "staticwebassets\\js\\OrderManager.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\js\\Products.js",
+      "PackagePath": "staticwebassets\\js\\Products.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\Bullky\\BullkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BullkyWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BullkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BullkyWeb.props",
+      "PackagePath": "build\\BullkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BullkyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BullkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BullkyWeb.props",
+      "PackagePath": "buildTransitive\\BullkyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

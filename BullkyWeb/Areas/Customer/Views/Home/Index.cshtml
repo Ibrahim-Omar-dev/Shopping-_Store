@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row pb-5">
+    @foreach (var product in Model)
+    {
+            <div class="col-lg-3 col-sm-6 mb-5">
+                <div class="card p-3 shadow border-top border-5 rounded border-0 h-100">
+				@if (product.ImageProduct !=null &&product.ImageProduct.Count() > 0)
+				{
+								<img src="@Url.Content(product.ImageProduct.FirstOrDefault().ImageUrl)" alt="@product.Title"
+									 class="img-fluid mb-3" style="height: 300px; object-fit: cover;" />
+				}
+				else
+				{
+								<img src="https://placehold.co/500x600.png" alt="No Image Available"
+									 class="img-fluid mb-3" style="height: 300px; object-fit: cover;" />
+				}
+                   @*  <img src="@Url.Content(product.ImageUrl)" alt="@product.Title"
+                         class="img-fluid mb-3" style="height: 300px; object-fit: cover;" /> *@
+
+                    <div class="card-body pb-0 text-center">
+                        <p class="card-title h5 text-dark opacity-75 text-uppercase">
+                        @product.Title
+                        </p>
+                        <p class="card-title text-warning">
+                            by <b>@product.Author</b>
+                        </p>
+                        <p class="text-dark opacity-75 mb-0">
+                            List Price:
+                            <span class="text-decoration-line-through">
+                            @product.ListPrice.ToString("C")
+                            </span>
+                        </p>
+                        <p class="text-dark opacity-75">
+                            As low as: <span>@product.Price100.ToString("C")</span>
+                        </p>
+                    </div>
+
+                    <div>
+                        <a href="@Url.Action("Details", "Home", new { area = "Customer", productId = product.Id })"
+                           class="btn btn-primary bg-gradient border-0 form-control">
+                            Details
+                        </a>
+                    </div>
+                </div>
+            </div>
+    }
+</div>
